@@ -1,0 +1,6 @@
+robot_name: test
+
+base_link_name: base
+endeffector_name: eff
+
+link_number: 6
